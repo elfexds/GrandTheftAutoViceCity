@@ -49,7 +49,7 @@ let haveOriginalGame = false;
             enterKey: "enter your key",
             clickToContinue: "Click to continue...",
             enterJsDosKey: "Enter js-dos key (5 len)",
-            portBy: "HTML5 port by:",
+            portBy: "HTML5 port by HOHO GAMES:",
             ruTranslate: "",
             demoOffDisclaimer: "Due to the unexpectedly high popularity of the project, resulting in significant traffic costs, and in order to avoid any risk of the project being shut down due to rights holder claims, we have disabled the demo version. You can still run the full version by providing the original game resources.",
         },
